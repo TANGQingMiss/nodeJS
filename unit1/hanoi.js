@@ -1,7 +1,7 @@
 //this js file is to solve the classic hanoi problem with algorithm
 var iCount = 0; //number of movements
 var strMoveStep="";//move steps
-var readline=require("readline");
+var readline=require("unit1/readLine");
 var rl = readline.createInterface({
     input:process.stdin,
     output:process.stdout

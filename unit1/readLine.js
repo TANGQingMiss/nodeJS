@@ -7,7 +7,7 @@ var iNum;
 var iFactorial = 1;
 var strFactorial;
 
-var readline=require("readline");
+var readline=require("unit1/readLine");
 var rl = readline.createInterface({
     input:process.stdin,
     output:process.stdout
