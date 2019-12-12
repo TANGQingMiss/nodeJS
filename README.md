@@ -10,4 +10,11 @@ hanoi.js - solve classic hanoi plate problem by js
 
 //unit 2 - module
 exchangeCal.js - simply calculate exchange but by using exports
-exchangeRate.js - import exchangeCal.js and log exchange money. 
+exchangeRate.js - import exchangeCal.js and log exchange money.
+async_control.js - how to make callback in async situations
+
+//unit 3 - buffer
+create, modify, copy, output buffer object
+buffer object to string, binary data
+
+//unit 4 - process control
