@@ -18,3 +18,5 @@ create, modify, copy, output buffer object
 buffer object to string, binary data
 
 //unit 4 - process control
+Process.js - process std input/output
+child_process.js - spawn/fork/exec/execFile create child process
