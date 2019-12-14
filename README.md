@@ -20,3 +20,9 @@ buffer object to string, binary data
 //unit 4 - process control
 Process.js - process std input/output
 child_process.js - spawn/fork/exec/execFile create child process
+
+//unit 5 - file I/O treatment
+use nodule fs to treat files(like commands in Linux/Unix)
+
+//unit 6 - web treatment
+create server and http, express, database of MySQL and MongoDB
